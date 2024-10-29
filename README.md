@@ -50,19 +50,19 @@ Data transformations were performed to clean and prepare the data before visuali
 
 The dashboard contains the following visual pages:
 
-> **1. Overview Page**
+> **Overview Page**
 
 - Displays total quantity, sales, ratings, and order count.
 - Breakdown of food items by category: Veg, Non-Veg, and Other.
 - Visualizes top-performing cities by sales and a trendline of yearly sales growth.
 
-> **2. User Performance Page**
+> **User Performance Page**
 
 - Overview of total users, active users, and orders placed.
 - Insights into gained and lost customers with gender distribution.
 - User distribution by age group.
 
-> **3. City Analysis Page**
+> **City Analysis Page**
 
 - Detailed city-wise analysis of sales, orders, gained and lost customers.
 - Comparison of cities based on ratings and active users.
