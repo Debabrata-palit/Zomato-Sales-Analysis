@@ -2,7 +2,7 @@
 
 ## Business Problem Statement
 
-The goal of this project is to explore the Zomato Restaurants dataset to gain meaningful insights into the dynamics of the food delivery industry. Specifically, we aim to identify the key factors that contribute to a restaurant's success, including elements like customer ratings, review counts, and cuisine styles. Through an analysis of customer sentiments reflected in reviews, we aim to understand the appeal of different types of restaurants, focusing on both order volume and the sentiment polarity of feedback. Ultimately, this project seeks to provide restaurant owners and managers with actionable recommendations for enhancing their establishment's performance and elevating customer satisfaction.
+The goal of this project is to explore the **Zomato** Restaurants dataset to gain meaningful insights into the dynamics of the food delivery industry. Specifically, we aim to identify the key factors that contribute to a restaurant's success, including elements like customer ratings, review counts, and cuisine styles. Through an analysis of customer sentiments reflected in reviews, we aim to understand the appeal of different types of restaurants, focusing on both order volume and the sentiment polarity of feedback. Ultimately, this project seeks to provide restaurant owners and managers with actionable recommendations for enhancing their establishment's performance and elevating customer satisfaction.
 
 ## Overview of Dataset:
 
@@ -23,20 +23,20 @@ The goal of this project is to explore the Zomato Restaurants dataset to gain me
 
 The following measures were created to drive insights in the dashboard:
 
--     ActiveUsers
--     CurrentYear
--     CurrentYrSale
--     Dynamic_Title
--     GainCustomers
--     LostCustomers
--     Order_count
--     PreviousYear
--     PreviousYrSale
--     Rating_Count
--     Sales
--     Subheading
--     Top_N_Sales
--     UserCount
+- ActiveUsers
+- CurrentYear
+- CurrentYrSale
+- Dynamic_Title
+- GainCustomers
+- LostCustomers
+- Order_count
+- PreviousYear
+- PreviousYrSale
+- Rating_Count
+- Sales
+- Subheading
+- Top_N_Sales
+- UserCount
 
 ## Data Transformation in Power Query
 
@@ -63,6 +63,7 @@ The dashboard contains the following visual pages:
 - User distribution by age group.
 
 > **3. City Analysis Page**
+
 - Detailed city-wise analysis of sales, orders, gained and lost customers.
 - Comparison of cities based on ratings and active users.
 
@@ -70,14 +71,9 @@ The dashboard contains the following visual pages:
 
 I processed the data and removed the NAN values from the sentiment column and removed the incorrect values in the Category column and NAN from the Rating column.
 
-1.       Zomato serves in 150,281 locations and collaborates with 77,929 restaurants, handling 150,281 orders.
-
-2.       Food data includes unique IDs, item names, and vegetarian/non-vegetarian indications.
-
-3.       Menu data comprises IDs, restaurant links, cuisine types, and item prices.
-
-4.       Orders detail dates, quantities, sales amounts, currencies, and user and restaurant IDs.
-
-5.       Restaurant information encompasses IDs, names, locations, ratings, cuisine types, and addresses.
-
-6.       User data contains IDs, names, ages, genders, marital statuses, and occupations.
+1. Zomato serves in 150,281 locations and collaborates with 77,929 restaurants, handling 150,281 orders.
+2. Food data includes unique IDs, item names, and vegetarian/non-vegetarian indications.
+3. Menu data comprises IDs, restaurant links, cuisine types, and item prices.
+4. Orders detail dates, quantities, sales amounts, currencies, and user and restaurant IDs.
+5. Restaurant information encompasses IDs, names, locations, ratings, cuisine types, and addresses.
+6. User data contains IDs, names, ages, genders, marital statuses, and occupations.
