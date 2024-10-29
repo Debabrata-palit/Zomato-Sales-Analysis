@@ -67,6 +67,10 @@ The dashboard contains the following visual pages:
 - Detailed city-wise analysis of sales, orders, gained and lost customers.
 - Comparison of cities based on ratings and active users.
 
+
+https://github.com/user-attachments/assets/f4900513-4885-4022-8b7e-1d772a8fc378
+
+
 ## Key Insights
 
 I processed the data and removed the NAN values from the sentiment column and removed the incorrect values in the Category column and NAN from the Rating column.
