@@ -79,3 +79,5 @@ I processed the data and removed the NAN values from the sentiment column and re
 4. Orders detail dates, quantities, sales amounts, currencies, and user and restaurant IDs.
 5. Restaurant information encompasses IDs, names, locations, ratings, cuisine types, and addresses.
 6. User data contains IDs, names, ages, genders, marital statuses, and occupations.
+
+https://app.powerbi.com/reportEmbed?reportId=38d3cfca-6cc4-408f-bb64-fe0d79a447a2&autoAuth=true&ctid=645f5409-bd60-43a1-8fef-1a83b657c220
