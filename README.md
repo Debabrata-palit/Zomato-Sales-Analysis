@@ -67,9 +67,7 @@ The dashboard contains the following visual pages:
 - Detailed city-wise analysis of sales, orders, gained and lost customers.
 - Comparison of cities based on ratings and active users.
 
-
-https://github.com/user-attachments/assets/f4900513-4885-4022-8b7e-1d772a8fc378
-
+https://github.com/user-attachments/assets/399b6ffb-a742-4a75-b252-6c44acc3d3ab
 
 ## Key Insights
 
