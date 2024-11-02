@@ -73,7 +73,7 @@ Check out the [Dashboard](https://app.powerbi.com/reportEmbed?reportId=38d3cfca-
 
 ## Key Insights
 
-I processed the data and removed the NAN values from the sentiment column and removed the incorrect values in the Category column and NAN from the Rating column.
+I processed the data and removed the NULL values from the sentiment column and removed the incorrect values in the Category column and NULL from the Rating column.
 
 1. Zomato serves in 150,281 locations and collaborates with 77,929 restaurants, handling 150,281 orders.
 2. Food data includes unique IDs, item names, and vegetarian/non-vegetarian indications.
