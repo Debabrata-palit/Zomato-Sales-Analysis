@@ -1,5 +1,7 @@
 # Power BI Project: Zomato Sales Analysis
 
+![zomato_banner](https://github.com/user-attachments/assets/e785f64d-1721-4e01-bfae-7c884445e1fd)
+
 ## Business Problem Statement
 
 The goal of this project is to explore the **Zomato** Restaurants dataset to gain meaningful insights into the dynamics of the food delivery industry. Specifically, we aim to identify the key factors that contribute to a restaurant's success, including elements like customer ratings, review counts, and cuisine styles. Through an analysis of customer sentiments reflected in reviews, we aim to understand the appeal of different types of restaurants, focusing on both order volume and the sentiment polarity of feedback. Ultimately, this project seeks to provide restaurant owners and managers with actionable recommendations for enhancing their establishment's performance and elevating customer satisfaction.
