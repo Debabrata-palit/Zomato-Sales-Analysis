@@ -1,4 +1,4 @@
-# Zomato Sales Analysis Report
+# Zomato Sales Analysis
 
 ![zomato_banner](https://github.com/user-attachments/assets/e785f64d-1721-4e01-bfae-7c884445e1fd)
 
