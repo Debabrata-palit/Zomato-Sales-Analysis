@@ -69,7 +69,7 @@ The dashboard contains the following visual pages:
 - Detailed city-wise analysis of sales, orders, gained and lost customers.
 - Comparison of cities based on ratings and active users.
 
-Check out the [Dashboard](https://app.powerbi.com/reportEmbed?reportId=38d3cfca-6cc4-408f-bb64-fe0d79a447a2&autoAuth=true&ctid=645f5409-bd60-43a1-8fef-1a83b657c220) 📊
+Check out the [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTEzMmVjYjctNmViYS00MWFlLTllNzQtMGFiN2ZlYjY0ZTcxIiwidCI6IjY0NWY1NDA5LWJkNjAtNDNhMS04ZmVmLTFhODNiNjU3YzIyMCJ9) 📊
 
 ## Key Insights
 
