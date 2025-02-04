@@ -73,11 +73,11 @@ Check out the [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTEzMmVjYj
 
 ## Key Insights
 
-I processed the data and removed the NULL values from the sentiment column and removed the incorrect values in the Category column and NULL from the Rating column.
+I processed the data and removed the NAN values from the sentiment column and removed the incorrect values in the Category column and NAN from the Rating column.
 
-1. Zomato serves in 150,281 locations and collaborates with 77,929 restaurants, handling 150,281 orders.
-2. Food data includes unique IDs, item names, and vegetarian/non-vegetarian indications.
-3. Menu data comprises IDs, restaurant links, cuisine types, and item prices.
-4. Orders detail dates, quantities, sales amounts, currencies, and user and restaurant IDs.
-5. Restaurant information encompasses IDs, names, locations, ratings, cuisine types, and addresses.
-6. User data contains IDs, names, ages, genders, marital statuses, and occupations.
+1.   Zomato serves in _150,281 locations_ and collaborates with _77,929 restaurants_, handling _150,281 orders_.
+2.   Food data includes unique IDs, item names, and vegetarian/non-vegetarian indications.
+3.   Menu data comprises IDs, restaurant links, cuisine types, and item prices.
+4.   Orders detail dates, quantities, sales amounts, currencies, and user and restaurant IDs.
+5.   Restaurant information encompasses IDs, names, locations, ratings, cuisine types, and addresses.
+6.   User data contains IDs, names, ages, genders, marital statuses, and occupations.
