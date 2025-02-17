@@ -73,11 +73,47 @@ Check out the [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNTEzMmVjYj
 
 ## Key Insights
 
-I processed the data and removed the NAN values from the sentiment column and removed the incorrect values in the Category column and NAN from the Rating column.
+This data provides a great overview of Zomato's performance. Here are some key takeaways:
 
-1.   Zomato serves in _150,281 locations_ and collaborates with _77,929 restaurants_, handling _150,281 orders_.
-2.   Food data includes unique IDs, item names, and vegetarian/non-vegetarian indications.
-3.   Menu data comprises IDs, restaurant links, cuisine types, and item prices.
-4.   Orders detail dates, quantities, sales amounts, currencies, and user and restaurant IDs.
-5.   Restaurant information encompasses IDs, names, locations, ratings, cuisine types, and addresses.
-6.   User data contains IDs, names, ages, genders, marital statuses, and occupations.
+1. **Growth & Reach**:  
+   - Operating in **150,281 locations** with **100,000 restaurant partners** is a strong indicator of its market penetration.  
+   - The total **orders (150,281)** suggest a one-to-one order-location ratio, which could indicate relatively low frequency per location.
+
+2. **Financial Metrics**:  
+   - The **total sales amount is ₹987 million**, with **2 million units sold**, suggesting an average order value of around ₹493.  
+   - The rating count (148,000) shows high user engagement, assuming these are customer reviews.
+
+3. **Category Performance**:  
+   - Non-Veg: ₹106 million in sales with a rating of 10,000
+   - Veg: ₹122 million in sales with a rating of 12,000
+   - Others: ₹24 million in sales with a rating of 927
+
+4. **City-Level Trends**:  
+   - Top-performing cities include **Tirupati, Electronic City, Baner (Pune), and Raipur**—suggesting demand isn't just limited to metros but also tier-2/3 cities.
+
+5. **Sales Trend Over Time**:  
+   - **2018 peak at ₹0.41B** shows strong growth.  
+   - **2019 dip to ₹0.34B** suggests early signs of stagnation.  
+   - **2020’s sharp fall to ₹0.14B** is likely due to COVID-19 restrictions.
+
+## Recommendations
+
+Here are some **recommendations** based on the analysis of Zomato's data:  
+
+1. **Improve Order Frequency & Customer Retention**  
+  - **Loyalty Programs**: Introduce reward points for repeat customers.  
+  - **Subscription Plans**: Offer discounts for frequent users.  
+  - **Personalized Recommendations**: Use AI to suggest food items based on past orders.  
+
+2. **Boost Sales & Revenue**  
+  - **Increase Average Order Value**: Offer bundle deals (e.g., combo meals, family packs).  
+  - **Promotions on Low-Selling Items**: The "Others" category has low ratings and revenue; targeted discounts could drive sales.  
+  - **Focus on High-Performing Cities**: Invest in marketing & partnerships in top cities like Tirupati, Electronic City, Baner, and Raipur.  
+
+3. **Address Declining Sales Trend**  
+  - **Expand Cloud Kitchens**: Offer exclusive Zomato-branded cloud kitchens in underperforming areas to boost sales.  
+  - **Partner with More Restaurants**: Increase variety in cities where sales have dropped.  
+
+4. **Improve Customer Feedback & Ratings**  
+  - **Encourage More Reviews**: Incentivize customers to leave reviews for better engagement.  
+  - **Resolve Negative Feedback**: Implement AI chatbots for quicker responses to bad ratings.  
