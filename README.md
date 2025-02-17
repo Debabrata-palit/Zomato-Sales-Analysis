@@ -115,5 +115,5 @@ Here are some **recommendations** based on the analysis of Zomato's data:
      - **Partner with More Restaurants**: Increase variety in cities where sales have dropped.  
 
 4. **Improve Customer Feedback & Ratings**  
-  - **Encourage More Reviews**: Incentivize customers to leave reviews for better engagement.  
-  - **Resolve Negative Feedback**: Implement AI chatbots for quicker responses to bad ratings.  
+     - **Encourage More Reviews**: Incentivize customers to leave reviews for better engagement.  
+     - **Resolve Negative Feedback**: Implement AI chatbots for quicker responses to bad ratings.  
