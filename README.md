@@ -101,18 +101,18 @@ This data provides a great overview of Zomato's performance. Here are some key t
 Here are some **recommendations** based on the analysis of Zomato's data:  
 
 1. **Improve Order Frequency & Customer Retention**  
-  - **Loyalty Programs**: Introduce reward points for repeat customers.  
-  - **Subscription Plans**: Offer discounts for frequent users.  
-  - **Personalized Recommendations**: Use AI to suggest food items based on past orders.  
+     - **Loyalty Programs**: Introduce reward points for repeat customers.  
+     - **Subscription Plans**: Offer discounts for frequent users.  
+     - **Personalized Recommendations**: Use AI to suggest food items based on past orders.  
 
 2. **Boost Sales & Revenue**  
-  - **Increase Average Order Value**: Offer bundle deals (e.g., combo meals, family packs).  
-  - **Promotions on Low-Selling Items**: The "Others" category has low ratings and revenue; targeted discounts could drive sales.  
-  - **Focus on High-Performing Cities**: Invest in marketing & partnerships in top cities like Tirupati, Electronic City, Baner, and Raipur.  
+     - **Increase Average Order Value**: Offer bundle deals (e.g., combo meals, family packs).  
+     - **Promotions on Low-Selling Items**: The "Others" category has low ratings and revenue; targeted discounts could drive sales.  
+     - **Focus on High-Performing Cities**: Invest in marketing & partnerships in top cities like Tirupati, Electronic City, Baner, and Raipur.  
 
 3. **Address Declining Sales Trend**  
-  - **Expand Cloud Kitchens**: Offer exclusive Zomato-branded cloud kitchens in underperforming areas to boost sales.  
-  - **Partner with More Restaurants**: Increase variety in cities where sales have dropped.  
+     - **Expand Cloud Kitchens**: Offer exclusive Zomato-branded cloud kitchens in underperforming areas to boost sales.  
+     - **Partner with More Restaurants**: Increase variety in cities where sales have dropped.  
 
 4. **Improve Customer Feedback & Ratings**  
   - **Encourage More Reviews**: Incentivize customers to leave reviews for better engagement.  
